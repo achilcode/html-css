@@ -9,3 +9,7 @@ li {
 .first-li {
     color: green;
 }
+
+.second-li:hover {
+    color: red;
+}
